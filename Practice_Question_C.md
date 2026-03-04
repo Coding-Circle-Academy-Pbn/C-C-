@@ -1,9 +1,9 @@
 C Programming Practice Questions (100)
 ⸻
 **1. Printf Function**
-	1.	Write a C program to print Hello, World! using printf().
-	2.	Write a program to print your name, age, and city using printf().
-	3.	Write a program to print the following pattern using printf():
+	1.	Write a C program to print Hello, World! using printf().<br>
+	2.	Write a program to print your name, age, and city using printf().<br>
+	3.	Write a program to print the following pattern using printf():<br>
 					`*`
 					`**`
 					`***`
@@ -196,7 +196,7 @@ City : Pune
 ⸻
 
 **22. String Functions**
-	99.	Write a program to find length of string using strlen().
-	100.	Write a program to copy one string to another using strcpy().
+	99.	Write a program to find length of string using strlen().<br>
+	100.	Write a program to copy one string to another using strcpy().<br>
 
 ⸻
